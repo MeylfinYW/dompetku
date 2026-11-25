@@ -1,10 +1,10 @@
-package com.example.dompetku //
+package com.example.dompetku
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.example.dompetku.databinding.ItemKategoriBinding //
+import com.example.dompetku.databinding.ItemKategoriBinding
 
 class KategoriAdapter(
     private var listKategori: MutableList<Kategori>,
